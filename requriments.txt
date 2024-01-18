@@ -1,0 +1,6 @@
+openai-whisper
+deep-translator          
+gTTS                    
+fastapi
+uvicorn
+python-multipart
